@@ -1,9 +1,12 @@
 # Hi, I'm Sergei Egorichev 👋
 ### Senior Systems Architect | SRE • Distributed Streaming • Reliability
 
-I specialize in building resilient, high-throughput systems with a focus on **Kafka ecosystems**, **Infrastructure-as-Code**, and **Autonomous Self-Healing**.
+I specialize in building resilient, high-throughput systems with a focus on **Kafka ecosystems**, 
+**Infrastructure-as-Code**, and **Autonomous Self-Healing**.
 
----
+🏗️ **Featured Project**: [Eng-OS](https://github.com/ZoltonMD/eng-os)  
+The Engineering Operating System. A collection of Architecture Decision Records and a 4-layer framework for 
+scaling systems and human reliability. Based on the upcoming book "What Everyone Knows".
 
 ## 🛠 Tech Stack
 * **Streaming:** Apache Kafka, Cruise Control, MirrorMaker 2
@@ -15,13 +18,19 @@ I specialize in building resilient, high-throughput systems with a focus on **Ka
 
 ## 🚀 Professional Impact & Expertise
 
-* **High-Load Message Streaming:** Architecting and operating large-scale Kafka ecosystems. Expertise in cluster optimization, autonomous self-healing (Cruise Control), and cross-DC data replication patterns.
-* **Java Performance Engineering:** Deep experience in maintaining and tuning high-throughput Java applications. Skilled in JVM optimization, Garbage Collection analysis, and troubleshooting memory/concurrency issues in mission-critical environments.
-* **Big Data Infrastructure:** Solid background in managing massive data clusters (Hadoop stack). Experienced in handling systems with millions of concurrent users and petabyte-scale storage (ex-OK.ru).
-* **Infrastructure Efficiency:** Focused on deep system tuning (Linux networking, SoftIRQ optimization, hardware-level performance) to reduce operational costs and technical debt.
-* **Engineering Governance:** Driving technical standards through ADRs (Architecture Decision Records) and automated policy enforcement to maintain system consistency.
+* **High-Load Message Streaming:** Architecting and operating large-scale Kafka ecosystems. Expertise in cluster 
+optimization, autonomous self-healing (Cruise Control), and cross-DC data replication patterns.
+* **Java Performance Engineering:** Deep experience in maintaining and tuning high-throughput Java applications. 
+Skilled in JVM optimization, Garbage Collection analysis, and troubleshooting memory/concurrency issues in 
+mission-critical environments.
+* **Big Data Infrastructure:** Solid background in managing massive data clusters (Hadoop stack). Experienced in 
+handling systems with millions of concurrent users and petabyte-scale storage (ex-OK.ru).
+* **Infrastructure Efficiency:** Focused on deep system tuning (Linux networking, SoftIRQ optimization, 
+hardware-level performance) to reduce operational costs and technical debt.
+* **Engineering Governance:** Driving technical standards through ADRs (Architecture Decision Records) and automated 
+policy enforcement to maintain system consistency.
 
 ---
 
 ## 📬 Connect with me
-[LinkedIn](https://www.linkedin.com/in/sergey-egorichev/)<!--- | [Personal Blog/Confluence Link if public]-->
+[LinkedIn](https://www.linkedin.com/in/sergey-egorichev/)
