@@ -1,5 +1,5 @@
 # Hi, I'm Sergei Egorichev 👋
-### Senior SRE | Infrastructure & Event Streaming Specialist
+### Senior Systems Architect | SRE • Distributed Streaming • Reliability
 
 I specialize in building resilient, high-throughput systems with a focus on **Kafka ecosystems**, **Infrastructure-as-Code**, and **Autonomous Self-Healing**.
 
